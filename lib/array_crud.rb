@@ -1,5 +1,5 @@
 def create_an_empty_array
-  
+  this_is_empty = []
 end
 
 def create_an_array
