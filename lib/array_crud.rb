@@ -9,7 +9,7 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  four_elements << "Only the avatar can command all for elements."
+  array << element
 end
 
 def add_element_to_start_of_array(array, element)
