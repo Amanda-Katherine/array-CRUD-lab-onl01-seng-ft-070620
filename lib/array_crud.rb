@@ -5,7 +5,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  four_elements = [water, earth, fire, air]
+  four_elements = ["water", "earth", "fire", "air"]
 end
 
 def add_element_to_end_of_array(array, element)
